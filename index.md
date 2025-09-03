@@ -1,7 +1,11 @@
 ---
-layout: home
+layout: page
 title: "Início"
+permalink: /
 ---
 
-Bem-vindo! Aqui vão meus testes e notas rápidas.
-Veja os posts abaixo.
+# Artigo de Exemplo
+Texto inicial aqui.
+
+![Figura 1](imagens/figura1.png)
+![Figura 2](imagens/figura2.png)
